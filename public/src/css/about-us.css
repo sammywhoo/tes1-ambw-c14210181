@@ -1,0 +1,27 @@
+.text-center {
+  text-align: center;
+}
+
+.drawer-option {
+  padding: 16px;
+}
+
+.web-logo img{
+  text-align: left;
+  max-height: 20px;
+}
+
+.web-logo-drawer img{
+  display: block;
+  margin: 10px auto;
+  max-height: 15px;
+}
+
+.mdl-layout__header-row{
+  background-color: grey;
+}
+
+.mdl-layout__drawer-button{
+  background-color: grey !important;
+  color: white !important;
+}
